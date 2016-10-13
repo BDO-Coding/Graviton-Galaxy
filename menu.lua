@@ -9,7 +9,6 @@ require "ship"
 require "inventory"
 require "tutorial"
 
-
 function menu.load()
 
     sound.load()
